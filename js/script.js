@@ -17,7 +17,7 @@ let colours = [
 let bCount = 1;
 let colour;
 let pair = 0;
-let time = 30;
+let time = 25;
 let score = 0;
 let over = false;
 
